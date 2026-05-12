@@ -1,0 +1,11 @@
+# 3ds Max
+*.max
+*.bak
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
