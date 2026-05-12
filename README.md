@@ -24,7 +24,7 @@ The plane is frustum-correct (sized to match the camera's field of view at a giv
 ## Installation
 
 **Option A — Drag and drop**
-Drag `Pipe3D_ImagePlane_v02.ms` directly onto the 3ds Max viewport. The dialog opens automatically.
+Drag `Pipe3D_ImagePlane.ms` directly onto the 3ds Max viewport. The dialog opens automatically.
 
 **Option B — Run Script**
 Go to `MAXScript > Run Script`, navigate to the file and open it.
